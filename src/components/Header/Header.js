@@ -3,7 +3,7 @@ import React from "react";
 const styles = {
   jumbotron: {
     textAlign: "center",
-    background: "#824dea"
+    background: "#7E57C2"
   }
 }
 
