@@ -1,5 +1,4 @@
-{
-    "employees": [
+[
         {
             "gender": "female",
             "name": {
@@ -2800,11 +2799,4 @@
             },
             "nat": "NZ"
         }
-    ],
-    "info": {
-        "seed": "a65d20119d263bb3",
-        "results": 50,
-        "page": 1,
-        "version": "1.3"
-    }
-}
+]
