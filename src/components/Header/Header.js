@@ -7,7 +7,7 @@ const styles = {
   }
 }
 
-const Jumbotron = () => {
+const Header = () => {
   return (
     <div className="jumbotron" style={styles.jumbotron}>
       <h1>ACME IT Consulting, Inc.</h1>
@@ -16,4 +16,4 @@ const Jumbotron = () => {
   );
 }
 
-export default Jumbotron;
+export default Header;

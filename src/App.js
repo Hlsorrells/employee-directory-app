@@ -1,12 +1,14 @@
 import React from 'react';
-import Header from './components/Header/Header'
-import EmployeeCard from './components/EmployeeCard/EmployeeCard';
+import Header from './components/Header/Header';
+import EmployeeList from './components/EmployeeList/EmployeeList';
 
-function App() {
+
+const App = () => {
+
   return (
-    <div style={{background: "#bcbabf"}}>
+    <div >
       <Header />
-      <EmployeeCard />
+      <EmployeeList />
     </div>
   );
 }
